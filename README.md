@@ -9,45 +9,97 @@
   <a href="https://anshuman365.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
+  <a href="https://github.com/anshumanhq/LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 - 🎓 Currently pursuing **BTech in CSE**.
-- 🚀 Passionate about building **Scalable AI Systems & Knowledge Graphs**.
-- 🧠 I love combining **Generative AI (LLMs)** with structured data.
+- 🚀 Passionate about building **Scalable AI Systems, Knowledge Graphs & Production-Grade Software**.
+- 🧠 I love combining **Generative AI (LLMs)** with structured data and real-world applications.
 - 📈 Built **StudyAI** - An AI-powered learning platform with Flask, Gemini, and payment gateways.
-- 👥 1.6K+ followers on LinkedIn | Open to Freelance & Collab.
+- 🏫 Created **CBT-School-Portal** - A Computer Based Testing system with hardware-locked licensing. **💰 Sold to 6+ clients!**
+- 👥 1.6K+ followers on LinkedIn | Open to Freelance, Collaborations & Full-time Roles.
+
+---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, SQL, JavaScript
-- **Frameworks:** Flask, React
-- **AI/ML:** LangChain, Gemini API, OpenRouter, Hugging Face, PyTorch
-- **Databases:** MySQL, PostgreSQL, SQLite, Qdrant (Vector DB)
-- **Tools:** Docker, Git, AWS S3, Stripe/Razorpay
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL, JavaScript |
+| **Backend** | Flask, FastAPI, REST APIs, WebSockets |
+| **Frontend** | React, Tailwind CSS, Bootstrap |
+| **AI/ML** | LangChain, Gemini API, OpenRouter, Hugging Face, PyTorch, scikit-learn |
+| **Databases** | MySQL, PostgreSQL, SQLite, Qdrant (Vector DB) |
+| **DevOps & Cloud** | Docker, Git, GitHub Actions, AWS S3, Cloudflare Tunnel |
+| **Payment** | Stripe, Razorpay, UPI |
+| **Desktop Apps** | Tkinter, PyWebView, PyInstaller |
+
+---
 
 ### 🏆 Featured Projects
-- **[StudyAI](https://github.com/anshumanhq/StudyAI)** - AI learning assistant with real-time chat, visual knowledge mapping, and payment integration.
-- **Serenity AI** - Neural ecosystem with multimodal AI (Gemini, FLUX image gen).
-- **Altivon Holdings** - Digital solutions venture for startups.
 
-### 📊 GitHub Stats
+| Project | Description | Live Demo |
+| :--- | :--- | :--- |
+| **[StudyAI](https://github.com/anshumanhq/StudyAI)** | AI-powered learning platform with real-time chat, visual knowledge mapping, and payment integrations. Built with Flask, Gemini API, and Stripe/Razorpay. | [Repo Link](https://github.com/anshumanhq/StudyAI) |
+| **[CBT-School-Portal](https://github.com/anshumanhq/CBT-School-Portal)** | 🚀 **Commercial Product** - Computer Based Testing system with hardware-locked licensing, admin dashboard, student client, and automated result processing. **Sold to 6+ educational institutions!** | [Repo Link](https://github.com/anshumanhq/CBT-School-Portal) |
+| **Serenity AI** | Neural ecosystem with multimodal AI (Gemini, FLUX image generation, real-time web intelligence). | Private |
+| **Altivon Holdings** | Digital solutions venture for startups - custom website development and scalable online systems. | [Website](#) |
+
+---
+
+### 📊 GitHub & LeetCode Stats
+
 <p align="center">
-  <!-- Streak Stats (working) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshumanhq&theme=radical" alt="Streak Stats" width="48%" />
-
+  <img src="https://leetcard.jacoblin.cool/anshumanhq?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshumanhq&theme=radical" alt="Streak Stats" width="45%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshumanhq&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" width="45%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=anshumanhq&theme=radical" alt="Trophies" width="80%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anshumanhq&theme=radical&no-frame=true&row=2&column=4" alt="Trophies" width="80%" />
 </p>
 
 ---
 
-### 📫 Let's Connect
-- 💼 LinkedIn: [Anshuman Singh](https://www.linkedin.com/in/anshuman-singh-662183303/)
-- 📧 Email: anshumansingh3697@gmail.com
-- 🌐 Portfolio: [anshuman365.github.io](https://anshuman365.github.io/)
+### 📌 What I'm Currently Working On
 
-⭐ **Check out my repositories and don't forget to star them if you like!**
+- 🔭 **Daily DSA Practice** - Solving 1 LeetCode problem every day ([LeetCode Repo](https://github.com/anshumanhq/LeetCode))
+- 🧠 **System Design** - Learning and documenting scalable system architectures
+- 🤖 **Generative AI** - Building RAG (Retrieval-Augmented Generation) applications with Knowledge Graphs
+- 📦 **GitHub Actions** - Automating builds and releases for my projects
+
+---
+
+### 📫 Let's Connect
+
+- 💼 **LinkedIn**: [Anshuman Singh](https://www.linkedin.com/in/anshuman-singh-662183303/)
+- 📧 **Email**: anshumansingh3697@gmail.com
+- 🌐 **Portfolio**: [anshuman365.github.io](https://anshuman365.github.io/)
+- 📝 **ORCID**: [0009-0004-7999-768X](https://orcid.org/0009-0004-7999-768X)
+
+---
+
+### ⭐ GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumanhq&theme=react-dark&bg_color=0d1117&hide_border=true" alt="GitHub Activity Graph" width="90%" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Consistency beats intensity. Every single day counts."</i>
+  <br />
+  ⭐ <b>Check out my repositories and don't forget to star them if you like!</b>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Made%20with-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Open%20Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+</div>
