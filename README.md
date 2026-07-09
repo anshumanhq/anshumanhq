@@ -47,7 +47,7 @@
 | **[StudyAI](https://github.com/anshumanhq/StudyAI)** | AI-powered learning platform with real-time chat, visual knowledge mapping, and payment integrations. Built with Flask, Gemini API, and Stripe/Razorpay. | [Repo Link](https://github.com/anshumanhq/StudyAI) |
 | **[CBT-School-Portal](https://github.com/anshumanhq/CBT-School-Portal)** | 🚀 **Commercial Product** - Computer Based Testing system with hardware-locked licensing, admin dashboard, student client, and automated result processing. **Sold to 6+ educational institutions!** | [Repo Link](https://github.com/anshumanhq/CBT-School-Portal) |
 | **Serenity AI** | Neural ecosystem with multimodal AI (Gemini, FLUX image generation, real-time web intelligence). | Private |
-| **Altivon Holdings** | Digital solutions venture for startups - custom website development and scalable online systems. | [Website](#) |
+| **Altivon Holdings** | Digital solutions venture for startups - custom website development and scalable online systems. | [Website](https://altivonholdings.github.io) |
 
 ---
 
