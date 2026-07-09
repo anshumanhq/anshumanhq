@@ -36,11 +36,10 @@
 <p align="center">
   <!-- Streak Stats (working) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshumanhq&theme=radical" alt="Streak Stats" width="48%" />
-  <!-- Temporary: Profile Views instead of Stats -->
-  <img src="https://komarev.com/ghpvc/?username=anshumanhq&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" width="48%" />
+
 </p>
 <p align="center">
-  <!-- Add Trophies (usually works) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=anshumanhq&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" width="45%" />
   <img src="https://github-profile-trophy.vercel.app/?username=anshumanhq&theme=radical" alt="Trophies" width="80%" />
 </p>
 
