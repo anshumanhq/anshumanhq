@@ -54,7 +54,7 @@
 ### 📊 GitHub & LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/anshumanhq?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" width="45%" />
+  <img src="https://leetcard.jacoblin.cool/Anshuman__Singh__?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshumanhq&theme=radical" alt="Streak Stats" width="45%" />
 </p>
 
