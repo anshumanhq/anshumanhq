@@ -33,7 +33,7 @@
 | **Languages** | Python, SQL, JavaScript |
 | **Backend** | Flask, FastAPI, REST APIs, WebSockets |
 | **Frontend** | React, Tailwind CSS, Bootstrap |
-| **AI/ML** | LangChain, Gemini API, **DeepSeek**, OpenRouter, Hugging Face, PyTorch, scikit-learn |
+| **AI/ML** | LangChain, Gemini API, DeepSeek, OpenRouter, Hugging Face, PyTorch, scikit-learn |
 | **Databases** | MySQL, PostgreSQL, SQLite, Qdrant (Vector DB) |
 | **DevOps & Cloud** | Docker, Git, GitHub Actions, AWS S3, Cloudflare Tunnel |
 | **Payment** | Stripe, Razorpay, UPI |
@@ -85,7 +85,7 @@
 
 ---
 
-### ⏳ WakaTime Coding Stats (Live)
+<!-- ### ⏳ WakaTime Coding Stats (Live)-->
 
 <!-- If you set up WakaTime, uncomment and replace with your username -->
 <!-- 
@@ -94,9 +94,9 @@
 </p>
 -->
 
----
 
-### 📝 Latest Blog Posts
+
+<!-- ### 📝 Latest Blog Posts-->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- If you set up the blog-post-workflow GitHub Action, your latest posts will appear here automatically! -->
