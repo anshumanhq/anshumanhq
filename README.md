@@ -129,11 +129,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumanhq&theme=react-dark&bg_color=0d1117&hide_border=true" alt="GitHub Activity Graph (31 days)" width="90%" />
 </p>
 
-**📈 Last 365 Days**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumanhq&theme=react-dark&bg_color=0d1117&hide_border=true&days=365&area=true" alt="GitHub Activity Graph (365 days)" width="90%" />
-</p>
-
 ---
 
 <p align="center">
