@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/anshuman-singh-662183303/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://anshuman365.github.io/">
+  <a href="https://anshumanhq.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://github.com/anshumanhq/LeetCode">
