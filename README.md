@@ -57,7 +57,7 @@
 | :--- | :--- | :--- |
 | **[StudyAI](https://github.com/anshumanhq/StudyAI)** | AI-powered learning platform with real-time chat, visual knowledge mapping, and payment integrations. Built with Flask, Gemini API, and Stripe/Razorpay. | ![Stars](https://img.shields.io/github/stars/anshumanhq/StudyAI?style=social) ![Forks](https://img.shields.io/github/forks/anshumanhq/StudyAI?style=social) ![Issues](https://img.shields.io/github/issues/anshumanhq/StudyAI) ![License](https://img.shields.io/github/license/anshumanhq/StudyAI) |
 | **[CBT-School-Portal](https://github.com/anshumanhq/CBT-School-Portal)** | 🚀 **Commercial Product** - Computer Based Testing system with hardware-locked licensing, admin dashboard, student client, and automated result processing. **Sold to 6+ educational institutions!** | ![Stars](https://img.shields.io/github/stars/anshumanhq/CBT-School-Portal?style=social) ![Forks](https://img.shields.io/github/forks/anshumanhq/CBT-School-Portal?style=social) ![License](https://img.shields.io/github/license/anshumanhq/CBT-School-Portal) |
-| **Serenity AI** | Neural ecosystem with multimodal AI (Gemini, FLUX image generation, real-time web intelligence). | Private [Live Demo]([https://altivonholdings.github.io](https://serenity-ai-techexpert.onrender.com/))|
+| **Serenity AI** |  Neural ecosystem with multimodal AI (Gemini, FLUX image generation, real-time web intelligence). | [![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-8A2BE2?style=flat-square&logo=github)](https://serenity-ai-techexpert.onrender.com/) |
 | **Altivon Holdings** | Digital solutions venture for startups - custom website development and scalable online systems. | [Website](https://altivonholdings.github.io) |
 
 ---
