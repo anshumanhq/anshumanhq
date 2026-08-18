@@ -64,12 +64,12 @@
 
 ### 📊 GitHub Statistics & Analytics
 
-<p align="center">
-  <!-- General Stats -->
+<!--<p align="center">
+  General Stats 
   <img src="https://github-readme-stats.vercel.app/api?username=anshumanhq&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="48%" />
-  <!-- Top Languages -->
+ Top Languages 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanhq&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="48%" />
-</p>
+</p>-->
 
 <p align="center">
   <!-- Streak Stats -->
@@ -78,10 +78,10 @@
   <img src="https://leetcard.jacoblin.cool/Anshuman__Singh__?theme=dark&font=Noto%20Sans&ext=heatmap" width="48%" />
 </p>
 
-<p align="center">
+<!--<p align="center">-->
   <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=anshumanhq&theme=radical&no-frame=true&row=2&column=4" width="80%" />
-</p>
+<!--  <img src="https://github-profile-trophy.vercel.app/?username=anshumanhq&theme=radical&no-frame=true&row=2&column=4" width="80%" />
+</p>-->
 
 ---
 
