@@ -22,7 +22,7 @@
 - 🧠 I love combining **Generative AI (LLMs)** with structured data and real-world applications.
 - 📈 Built **StudyAI** - An AI-powered learning platform with Flask, Gemini, and payment gateways.
 - 🏫 Created **CBT-School-Portal** - A Computer Based Testing system with hardware-locked licensing. **💰 Sold to 6+ clients!**
-- 👥 1.6K+ followers on LinkedIn | Open to Freelance, Collaborations & Full-time Roles.
+- 👥 2.1K+ followers on LinkedIn | Open to Freelance, Collaborations & Full-time Roles.
 
 ---
 
@@ -64,12 +64,12 @@
 
 ### 📊 GitHub Statistics & Analytics
 
-<!--<p align="center">
+<p align="center">
   General Stats 
   <img src="https://github-readme-stats.vercel.app/api?username=anshumanhq&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="48%" />
  Top Languages 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanhq&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="48%" />
-</p>-->
+</p>
 
 <p align="center">
   <!-- Streak Stats -->
